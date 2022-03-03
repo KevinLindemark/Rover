@@ -1,6 +1,9 @@
 # Rover
 Micropython Rover with ESP32
 
+![rover](https://user-images.githubusercontent.com/58036568/156641601-13340f49-b950-4cc3-b704-ca1fffa6daa5.PNG)
+
+
 The RoverV1.0 folder contains a fully working version of the Rovers code. Uplaoad all files to the Rover and create a wifi hotspot with credenitals from the boot.py (SSID: "ESP32" and Password "12345678" file. The Rovers IP adress will be printed in console when connected. Put the IP adress in a browser window to control the Rover. 
 
 The motorTestPWM folder contains a working motor test for the rover. It will continuesly run all motors from low duty (300) to max duty (1023), and then stop all motors for 3 seconds and repeat. 
