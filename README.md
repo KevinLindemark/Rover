@@ -13,3 +13,4 @@ The dataSmoothing folder contains an example of how to setup moving median for s
 hcsr04MovingMedian.py file. The example needs hcsr04 sensors attatched.
 
 
+[Rover project documentation.pdf](https://github.com/KevinLindemark/Rover/files/8180710/Rover.project.documentation.pdf)
